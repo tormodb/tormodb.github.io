@@ -4,7 +4,7 @@ title: Bydelsfattigdom Bergen 2013
 ---
 
 
-![Figure not showing][id]
+[<img src="{{ site.baseurl }}/images/map.png" alt="Image missing" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 
 ```r
