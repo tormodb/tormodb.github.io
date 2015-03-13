@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Post-doctor at [Uni Research Health](http://uni.no/en/uni-health/) currently studying socioeconomic mental health inequalities in children and adolescents. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+See my work [profile)(http://uni.no/en/staff/directory/tormod-be/)
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tormod.boe@uni.no](mailto:tormod.boe@uni.no)
