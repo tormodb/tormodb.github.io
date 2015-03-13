@@ -1,6 +1,9 @@
-# Bydelsfattigdom Bergen 2013
-Tormod Bøe  
-13. mars 2015  
+---
+layout: post
+title: Bydelsfattigdom Bergen 2013
+---
+
+
 ![Figure not showing][id]
 
 
