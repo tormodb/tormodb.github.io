@@ -5,9 +5,8 @@ title: Contact
 
 # Contact
 
-<!--<img src="/images/sean_anderson_okanagan.jpg" alt="Sean C. Anderson" width="240" height="330" class="headshot"/>-->
+See my work [profile](http://uni.no/en/staff/directory/tormod-be/)
 
+Please feel free to email me at [tormod.boe@uni.no](mailto:tormod.boe@uni.no) 
 
-Please feel free to email me at sean<span style="display:none">ignorethis</span>@seananderson.ca. 
-
-You can also find me on Twitter at [sean_anderson](https://twitter.com/sean_anderson). 
+You can also find me on Twitter at [tormodboe](https://twitter.com/tormodboe). 
