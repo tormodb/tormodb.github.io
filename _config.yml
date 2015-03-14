@@ -3,9 +3,9 @@
     port:        4000
     highlighter:  'pygments'
     permalink:   date
-    name: Sean Anderson
-    description: Web log by Sean Anderson
-    url: http://seananderson.ca
+    name: Tormod Bøe
+    description: Web log by Tormod Bøe
+    url: http://tormodb.github.io
     safe: true
     markdown: redcarpet
     redcarpet:
