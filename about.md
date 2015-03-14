@@ -8,7 +8,7 @@ Post-doctor at [Uni Research Health](http://uni.no/en/uni-health/) currently stu
 
 ### More Information
 
-See my work [profile](http://uni.no/en/staff/directory/tormod-be/)
+See my work [profile](http://uni.no/en/staff/directory/tormod-be/) and [publications and talks](http://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=47019&la=no&action=sok).
 
 
 ### Contact me
