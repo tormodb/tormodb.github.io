@@ -1,10 +1,6 @@
 ---
 title: "Bydelsfattigdom Bergen 2013"
-author: "Tormod Bøe"
-date: "13. mars 2015"
-output:
-  html_document:
-    keep_md: true
+layout: post
 ---
 
 
