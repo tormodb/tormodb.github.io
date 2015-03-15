@@ -1,7 +1,9 @@
 ---
-bibliography:
-- 'tbpubs.bib'
-...
+layout: page
+title: About
+permalink: /about/
+---
+
 
 Education and Qualifications
 ============================
