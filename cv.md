@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cv
-permalink: /cv/
+title: Tormod Bøe
+permalink: 
 ---
 
 
@@ -61,4 +61,4 @@ Academic supervison
 Publications and talks
 ============================
 
-See link to publications and talks [here](http://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=47019&la=no&action=sok">Publications</a>)
+See link to publications and talks [here](http://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=47019&la=no&action=sok)
