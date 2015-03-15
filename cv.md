@@ -61,4 +61,4 @@ Academic supervison
 Publications and talks
 ============================
 
-See link to publications and talks [here](http://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=47019&la=no&action=sok)
+See link to publications and talks [here](http://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=47019&la=no&action=sok) and my Google Scholar profile page is [here](https://scholar.google.com/citations?user=TMC38ZgAAAAJ&hl=en).
