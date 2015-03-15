@@ -37,25 +37,25 @@ Awards and prizes
 =================
 
   ----------- -----------------------------------------------------------------------------------------------------
-  2011–2013   Project scholarship, L. Meltzers høyskolefond
-  2006–2009   Summer scholarship, Regional centre for child and youth mental health and child welfare, Uni health
-  2007        Scholarship, University of Bergen
-  2006        Faculty medal, the University of Newcastle, Australia
-  2005        Basic Science in Psychology Prize, the University of Newcastle, Australia
-  2003–2004   Faculty Commendation List, the University of Newcastle, Australia
-  2002        Wilhelm Wundt Prize in First Year Psychology, the University of Newcastle, Australia
+  2011–2013   Project scholarship, L. Meltzers høyskolefond  
+  2006–2009   Summer scholarship, Regional centre for child and youth mental health and child welfare, Uni health  
+  2007        Scholarship, University of Bergen  
+  2006        Faculty medal, the University of Newcastle, Australia  
+  2005        Basic Science in Psychology Prize, the University of Newcastle, Australia  
+  2003–2004   Faculty Commendation List, the University of Newcastle, Australia  
+  2002        Wilhelm Wundt Prize in First Year Psychology, the University of Newcastle, Australia  
   ----------- -----------------------------------------------------------------------------------------------------
 
 Academic supervison
 ===================
 
   ------ -------------------- ----------------------------------------------------
-  2014   Masters thesis       Stud. psychols S., Øie & L.M., Aarsheim
-  2014   Student paper        Stud. psychols A., Thorsen, S. Holm & T. Eilertsen
-  2014   Research assistant   Stud.psychol S. Nilsen
-  2012   Summer scholarship   Stud.psychol E. Brevik
-  2012   Student paper        Stud.psychols M. Nordmo, S. A. Nilsen & A. G. Grov
-  2011   Summer scholarship   Stud.psychol H. Sjåstad.
+  2014   Masters thesis       Stud. psychols S., Øie & L.M., Aarsheim  
+  2014   Student paper        Stud. psychols A., Thorsen, S. Holm & T. Eilertsen  
+  2014   Research assistant   Stud.psychol S. Nilsen  
+  2012   Summer scholarship   Stud.psychol E. Brevik  
+  2012   Student paper        Stud.psychols M. Nordmo, S. A. Nilsen & A. G. Grov  
+  2011   Summer scholarship   Stud.psychol H. Sjåstad.  
   ------ -------------------- ----------------------------------------------------
 
 Publications and talks
