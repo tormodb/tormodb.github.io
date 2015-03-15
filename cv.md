@@ -1,6 +1,7 @@
 ---
 layout: page
-
+title: Tormod Bøe
+permalink: /cv/
 ---
 
 
