@@ -9,28 +9,28 @@ Education and Qualifications
 ============================
 
   ------ ---------------- ------------------------------------
-  2013   Ph.D.            University of Bergen, Norway.
-  2010   Psy.D.           University of Bergen, Norway
-  2005   B.Psych.(Hons)   University of Newcastle, Australia
+  2013   Ph.D.            University of Bergen, Norway  
+  2010   Psy.D.           University of Bergen, Norway  
+  2005   B.Psych.(Hons)   University of Newcastle, Australia  
   ------ ---------------- ------------------------------------
 
 Working experience
 ==================
 
   -------------- -------------------- ----------------------------------------------------------
-  2014–present   Postdoctor           Uni health (funding from the Research Council of Norway)
-  2010–2014      PhD student          Uni health
-  2006–2010      Research assistant   Uni health
+  2014–present   Postdoctor           Uni health (funding from the Research   Council of Norway)
+  2010–2014      PhD student          Uni health  
+  2006–2010      Research assistant   Uni health  
   -------------- -------------------- ----------------------------------------------------------
 
 Society activitites
 ===================
 
   -------------- ----------------------------------------------------------------------------------------------------------------------------------------------------
-  2015–present   Member, National Council for social inequality in health
-  2013–present   Board member, Norwegian society of Behavioural Medicine
-  2012–present   Reviewer: Journal of Child Psychology and Psychiatry, International Journal of Behavioral Medicine, Social Psychiatry and Psychiatric Epidemiology
-  2011–2012      PsykTestBarn, evaulation of psychometric properties of Norwegian versions of tests and instruments in the mental health field
+  2015–present   Member, National Council for social inequality in health  
+  2013–present   Board member, Norwegian society of Behavioural Medicine  
+  2012–present   Reviewer: Journal of Child Psychology and Psychiatry,   International Journal of Behavioral Medicine, Social Psychiatry and   Psychiatric Epidemiology  
+  2011–2012      PsykTestBarn, evaulation of psychometric properties of   Norwegian versions of tests and instruments in the mental health field  
   -------------- ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Awards and prizes
