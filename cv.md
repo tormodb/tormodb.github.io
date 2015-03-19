@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tormod Bøe
+title: 
 permalink: /cv/
 ---
 
@@ -8,8 +8,8 @@ permalink: /cv/
 # Education 
 
 2010--2014
-:    Ph.D. at [University of Bergen, Norway](www.uib.no)
-
+:    Ph.D. at [University of Bergen, Norway](www.uib.no)\
+ 
 2005--2010  
 :    Psy.D. at [University of Bergen, Norway](www.uib.no)  
 
@@ -65,23 +65,23 @@ permalink: /cv/
 
 # Academic supervison
 
-  2014
-  :    Masters thesis, Stud. psychols S., Øie & L.M., Aarsheim  
+2014
+ :    Masters thesis, Stud. psychols S., Øie & L.M., Aarsheim  
   
-  2014
-  :    Student paper, Stud. psychols A., Thorsen, S. Holm & T. Eilertsen  
+2014
+:    Student paper, Stud. psychols A., Thorsen, S. Holm & T. Eilertsen  
   
-  2014
-  :    Research assistant, Stud.psychol S. Nilsen  
+2014
+:    Research assistant, Stud.psychol S. Nilsen  
   
-  2012
-  :    Summer scholarship, Stud.psychol E. Brevik  
+2012
+:    Summer scholarship, Stud.psychol E. Brevik  
   
-  2012
-  :    Student paper, Stud.psychols M. Nordmo, S. A. Nilsen & A. G. Grov  
+2012
+:    Student paper, Stud.psychols M. Nordmo, S. A. Nilsen & A. G. Grov  
   
-  2011
-  :    Summer scholarship, Stud.psychol H. Sjåstad.  
+2011
+:    Summer scholarship, Stud.psychol H. Sjåstad.  
   
 
 # Publications and talks
