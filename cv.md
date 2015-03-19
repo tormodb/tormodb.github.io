@@ -4,9 +4,11 @@ title:
 permalink:
 ---
 
+You can also download my CV in pdf format [here.](https://dl.dropboxusercontent.com/u/268123/TormodB%C3%B8e.pdf)
+
 # Education 
 
-* **2010--2014** Ph.D. at [University of Bergen, Norway](www.uib.no)\
+* **2010--2014** Ph.D. at [University of Bergen, Norway](www.uib.no)
 * **2005--2010** Psy.D. at [University of Bergen, Norway](www.uib.no)  
 * **2001--2004** B.Psych.(Hons) at [University of Newcastle, Australia](www.newcastle.edu.au)  
   
