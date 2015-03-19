@@ -8,14 +8,14 @@ You can also download my CV in pdf format [here.](https://dl.dropboxusercontent.
 
 # Education 
 
-* **2010--2014** Ph.D. at [University of Bergen, Norway](www.uib.no)
-* **2005--2010** Psy.D. at [University of Bergen, Norway](www.uib.no)  
-* **2001--2004** B.Psych.(Hons) at [University of Newcastle, Australia](www.newcastle.edu.au)  
+* **2010--2014** Ph.D. at [University of Bergen, Norway](http://www.uib.no)
+* **2005--2010** Psy.D. at [University of Bergen, Norway](http://www.uib.no)  
+* **2001--2004** B.Psych.(Hons) at [University of Newcastle, Australia](http://www.newcastle.edu.au)  
   
 # Working experience
 
-* **2014--present** Postdoctor at [Uni health](www.uni.no) (with funding from [the Research Council of Norway](www.nfr.no))
-* **2010--2014** PhD student at [RKBU - Uni health](http://uni.no/nb/uni-helse/rkbu-vest/) & [University of Bergen, Norway](www.uib.no)  
+* **2014--present** Postdoctor at [Uni health](http://www.uni.no) (with funding from [the Research Council of Norway](http://www.nfr.no))
+* **2010--2014** PhD student at [RKBU - Uni health](http://uni.no/nb/uni-helse/rkbu-vest/) & [University of Bergen, Norway](http://www.uib.no)  
 * **2006--2010** Research assistant at [RKBU - Uni health](http://uni.no/nb/uni-helse/rkbu-vest/)  
 
 # Society activitites
