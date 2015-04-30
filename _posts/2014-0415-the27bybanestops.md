@@ -1,8 +1,6 @@
 ---
-title: 
-author: 
-date: 
-output: html_document
+title: "The 27 Bybanestops"
+layout: post
 ---
 
 
