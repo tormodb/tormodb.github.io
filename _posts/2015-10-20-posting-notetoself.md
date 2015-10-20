@@ -15,3 +15,4 @@ naming: either name the original rmd file as YEAR-MO-DA-name or rename the final
 
 Committ and push to github.
 
+OH - github doesn't seem to to like tables made using ```kable``
