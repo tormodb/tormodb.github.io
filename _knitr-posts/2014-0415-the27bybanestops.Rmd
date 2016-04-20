@@ -1,0 +1,41 @@
+---
+title: 
+author: 
+date: 
+output: html_document
+---
+
+```{r, echo=FALSE}
+setwd("~/Dropbox/DataLek/fattigdom langs bybanen")
+load("bybanen.Rdata")
+alledata$stasjon <- factor(alledata$stasjon, levels = alledata$stasjon[order(alledata$sortering)])
+library(ggplot2)
+library(plyr)
+#library(dplyr)
+library(jpeg)
+library(grid)
+img <- readJPEG("bybanen.jpg")
+```
+
+```{r, echo=FALSE, fig.width=14, fig.height=12}
+  ggplot(alledata, aes(x=stasjon, y=barnefattigdom, group=1)) + scale_y_continuous(limits = c(-1, 25), name="Barnefattigdom (%)") + 
+  annotation_custom(rasterGrob(img, width=unit(1,"npc"), height=unit(1,"npc")), -Inf, 28.5, -3.3, Inf) + 
+  geom_line(size=2) + theme(axis.line=element_blank(),
+                      axis.text.x=element_blank(),
+                      axis.text.y=element_text(colour = "black", size = 12),
+                      #axis.text.y=element_blank(),
+                      axis.ticks.x=element_blank(),
+                      axis.title.x=element_blank(),
+                      #axis.title.y=element_blank(),
+                      legend.position="none",
+                      panel.background=element_blank(),
+                      panel.border=element_blank(),
+                      panel.grid.major=element_blank(),
+                      panel.grid.minor=element_blank(),
+                      plot.background=element_blank()) + 
+                      ggtitle("En sosial reise langs Bybanen i Bergen") + theme(plot.title = element_text(lineheight=.8, face="bold", color="tomato3"))
+
+```
+
+
+
