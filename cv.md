@@ -1,7 +1,5 @@
 ---
-layout: page
-title: 
-permalink:
+layout: default
 ---
 
 You can also download my CV in pdf format [here.](https://dl.dropboxusercontent.com/u/268123/TormodB%C3%B8e.pdf)
